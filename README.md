@@ -50,5 +50,7 @@ Improved Food Quality → Identifies meals with low ratings to focus on improvem
  Time Saving → Automates feedback analysis, reducing manual effort.
 
  Continuous Improvement → Weekly trend tracking allows quick action on problem areas.
+ # Screenshorts / Demos 
+ Example-
 
 
