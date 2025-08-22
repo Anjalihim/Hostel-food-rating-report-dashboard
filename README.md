@@ -51,6 +51,6 @@ Improved Food Quality → Identifies meals with low ratings to focus on improvem
 
  Continuous Improvement → Weekly trend tracking allows quick action on problem areas.
  # Screenshorts / Demos 
- Example-
+ Example-https://github.com/Anjalihim/Hostel-food-rating-report-dashboard/blob/main/Screenshot%202025-08-20%20163929.png
 
 
