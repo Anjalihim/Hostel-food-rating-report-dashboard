@@ -1,4 +1,4 @@
-# Hostel-food-rating- analysis-dashboard-using-powerbi
+ Hostel-food-rating- analysis-dashboard-using-powerbi
 project on analyzing hostel food feedback using power bi
 short description/ purpose
 This project analyzes hostel food feedback using power bi. A self created dataset with food types, ratings, and dates is visualized through interactive dashboard to track satisfaction and trends. The purpose of this project is to identify food quality issues, monitor student satisfaction, and help management make data driven decisions for improving foods and overall service.
@@ -24,3 +24,4 @@ Better Student Satisfaction- Understanding preferences helps increase overall ha
 Data Driven Decision- Replaces guesswork with insights from feedback trends.
 Time Saving- Automates feedback analysis, reducing manual effort.
 Screenshorts / Demos
+Example - https://github.com/Anjalihim/Hostel-food-rating-report-dashboard/blob/main/Screenshot%202025-08-20%20163929.png
